@@ -1,6 +1,15 @@
-# EcowasCTF 2024 Qualifying Round (Machines)
+# EcowasCTF 2024 Qualifying Round - Machines Writeups
 
-**Note:** Most of the write-ups are terminal dumps and may be incomplete.  
-They are still readable if you understand the context and the techniques used.  
+This repository contains write-ups for the **EcowasCTF 2024 qualifying round**, which were **machine exploitation challenges**.  
 
-Enjoy exploring them!
+**Note:** Most write-ups are **terminal session dumps** and may be incomplete.  
+They are readable if you understand common **CTF techniques** and command-line workflows.  
+
+These write-ups cover topics such as:  
+- **Linux and Windows exploitation**  
+- **Privilege escalation**  
+- **Enumeration**
+- **Threat Hunting**  
+ 
+
+Use this repository to study and understand CTF machine-solving strategies and improve your **cybersecurity and ethical hacking skills**.
