@@ -12,4 +12,4 @@ These write-ups cover topics such as:
 - **Threat Hunting**  
  
 
-Use this repository to study and understand CTF machine-solving strategies and improve your **cybersecurity and ethical hacking skills**.
+Enjoy exploring them!
