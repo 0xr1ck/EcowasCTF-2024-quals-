@@ -1,4 +1,4 @@
-# EcowasCTF 2024 Qualifying Round - Machines Writeups
+# EcowasCTF 2024 Qualifying Round Writeups
 
 This repository contains write-ups for the **EcowasCTF 2024 qualifying round**, which were **machine exploitation challenges**.  
 
